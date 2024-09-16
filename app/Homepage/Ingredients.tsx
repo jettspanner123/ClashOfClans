@@ -2,7 +2,9 @@ import React from "react";
 
 const Ingredients = (): React.JSX.Element => {
     return (
-        <section></section>
+        <section className={`h-screen w-screen bg-white`}>
+
+        </section>
     )
 }
 

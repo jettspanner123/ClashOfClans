@@ -20,7 +20,7 @@ const Menu = (): React.JSX.Element => {
             </h1>
 
 
-            <div className={`flex bg-blue-300 w-full h-full mt-10`}>
+            <div className={`flex bg-blue-300 w-full h-[80%] mt-10`}>
                 <div className={`flex-1 h-full bg-green-300`}>
                     <h1 style={{color: ACCENT_COLOR}} className={`text-[3rem] text-center`}>Italian Traditional Dishes</h1>
                     <MenuItem name={"Lorem ipsum dolor sit amet........10%"} desc={"lorem ipsum dolor sit amet"} />
